@@ -48,5 +48,3 @@ export default tseslint.config({
   },
 })
 ```
-# bidder-vertification
-# bidder-vertification
